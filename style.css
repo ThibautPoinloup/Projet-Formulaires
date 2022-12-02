@@ -17,7 +17,7 @@ form.exo1{
 }
 
 form.exo1 div.sign-login button{
-    padding: 10px;
+    padding: 20px;
     width: 253px;
     background-color: #3f5459;
     color: #fff;
@@ -61,7 +61,7 @@ input[type="email"]{
 }
 
 button[type="submit"]{
-    padding: 10px;
+    padding: 20px;
     width: 512px;
     font-size: 16px;
     border: solid 1px #fff;
@@ -69,5 +69,7 @@ button[type="submit"]{
     border: none;
     background-color: #1daf8a;
     margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
 }
 
