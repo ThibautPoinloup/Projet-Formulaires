@@ -16,6 +16,10 @@ form.exo1{
     padding: 25px;
 }
 
+form.exo1 div.sign-login{
+    display: flex;
+}
+
 form.exo1 div.sign-login button{
     padding: 20px;
     width: 253px;
